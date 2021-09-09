@@ -12,4 +12,6 @@ for training, sp that the faces are selected. After cropping, the data are clean
 It is trained by GridSearchCV for finding the best Hayperparameters and the estimator.
 It is done by using sklearn and OpenCV.
 
+<img width="492" alt="conf_max" src="https://user-images.githubusercontent.com/80074373/132764033-2b3899b6-bd8e-4d27-ac2a-c881a11c1082.PNG">
+
 conf_max.PNG
